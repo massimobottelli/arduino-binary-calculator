@@ -3,7 +3,7 @@
 #include "Adafruit_LEDBackpack.h"
 Adafruit_7segment dis = Adafruit_7segment();
 
-const int rxPin = 2; // Connect this pin to the TX pin of the sender
+const int rxPin = 0; // Connect this pin to the TX pin of the sender
 int receivedData;
 
 void setup() {
