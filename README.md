@@ -33,7 +33,7 @@ The script reads the state of the switches, toggles LEDs based on switch states,
 The display script receives the calculated decimal value from the controller and showcases it on a 4-digit display.
 
 #### Pin Configuration
-- RX Pin: 2 (Connect to the TX pin of the sender Arduino)
+- RX Pin: 0 (Connect to the TX pin of the sender Arduino)
 
 #### Usage
 1. Connect the RX pin to the TX pin of the sender Arduino.
