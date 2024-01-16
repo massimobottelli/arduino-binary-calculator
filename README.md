@@ -34,6 +34,9 @@ The display script receives the calculated decimal value from the controller and
 
 #### Pin Configuration
 - RX Pin: 0 (Connect to the TX pin of the sender Arduino)
+- SDA: connect to HT16K33 display
+- SLC: connect to HT16K33 display
+
 
 #### Usage
 1. Connect the RX pin to the TX pin of the sender Arduino.
